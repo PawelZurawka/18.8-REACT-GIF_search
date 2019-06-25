@@ -1,0 +1,7 @@
+body {
+  background-image: radial-gradient( circle farthest-corner at 2.1% 4%,  rgba(234,65,69,1) 0%, rgba(251,178,96,1) 90% );
+  font-family: 'Raleway', sans-serif;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
